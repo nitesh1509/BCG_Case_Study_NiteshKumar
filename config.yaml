@@ -7,16 +7,16 @@ INPUT_FILENAME:
   Restrict: Data/Restrict_use.csv
 
 OUTPUT_PATH:
-  1: ./Analytics_1/1
-  2: ./Analytics_2/2
-  3: ./Analytics_3/3
-  4: ./Analytics_4/4
-  5: ./Analytics_5/5
-  6: ./Analytics_6/6
-  7: ./Analytics_7/7
-  8: ./Analytics_8/8
-  9: ./Analytics_9/9
-  10: ./Analytics_10/10
+  1: ./Analysis_output/TestCaseOutput_1
+  2: ./Analysis_output/TestCaseOutput_2
+  3: ./Analysis_output/TestCaseOutput_3
+  4: ./Analysis_output/TestCaseOutput_4
+  5: ./Analysis_output/TestCaseOutput_5
+  6: ./Analysis_output/TestCaseOutput_6
+  7: ./Analysis_output/TestCaseOutput_7
+  8: ./Analysis_output/TestCaseOutput_8
+  9: ./Analysis_output/TestCaseOutput_9
+  10: ./Analysis_output/TestCaseOutput_10
 
 
 FILE_FORMAT:
